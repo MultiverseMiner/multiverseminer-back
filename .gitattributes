@@ -1,0 +1,20 @@
+.gitignore      text  eol=lf
+.gitattributes  text  eol=lf
+
+*.js            text  eol=lf
+*.json          text  eol=lf
+
+*.htm           text  eol=lf
+*.html          text  eol=lf
+*.html          text  eol=lf
+*.jade          text  eol=lf
+
+*.css           text  eol=lf
+*.sass          text  eol=lf
+*.scss          text  eol=lf
+*.less          text  eol=lf
+
+*.md            text  eol=lf
+*.txt           text  eol=lf
+
+www             text eol=lf
